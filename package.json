@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fast-xml-parser": "^3.17.5",
     "puppeteer": "^5.5.0",
     "request": "^2.88.2"
   }
